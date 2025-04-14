@@ -1,0 +1,14 @@
+{
+  "name": "Debian Buster Dev Container",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "settings": {
+    "terminal.integrated.shell.linux": "/bin/bash"
+  },
+  "postCreateCommand": "echo 'Ready!'",
+  "features": {},
+  "mounts": [],
+  "forwardPorts": [],
+  "remoteUser": "root"
+}
