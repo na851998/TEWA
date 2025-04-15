@@ -1,5 +1,5 @@
 {
-  "name": "Debian Buster Dev Container",
+  "name": "Debian Jessie Dev Container",
   "build": {
     "dockerfile": "Dockerfile"
   },
