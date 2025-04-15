@@ -1,2 +1,2 @@
-# Use Debian Buster as base
-FROM debian:buster
+# Use Debian Jessie as base (EOL)
+FROM debian:jessie
